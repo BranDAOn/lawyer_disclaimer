@@ -1,9 +1,6 @@
-# lawyer_disclaimer_template
-autonomous law disclosure and disclaimer template (lawyer version)
-
 ***DISCLAIMERS FOLLOW: Please review and be advised of the following:*** 
 
-I am a lawyer admitted to practice in [List Jxd].  
+I am a lawyer admitted to practice in New York.  
 
 **DISCLAIMER OF ATTORNEY – CLIENT RELATIONSHIP** 
 
@@ -21,13 +18,8 @@ As such, reviewing any work product reviewed should not be used as a substitute 
 
 In engaging in autonomous lawyering, I am not acting on behalf of my law firm or any other employer of mine, nor on behalf of my clients (i.e., those with whom I have signed engagement letters providing that I will act as their attorney).  Any views or opinions expressed in work product or otherwise in furtherance of autonomous lawyering are mine and do not reflect the opinions or views of my firm, or other employer or organization with which I am affiliated. 
 
-I currently engage in autonomous lawyering in the following communities and have the following economic interests therein:  
+I currently do not engage in autonomous lawyering in any communities nor do I economic interests in any such communities.  
 
-* [LeXpunk/L3X disclosure] 
-
-* [Other] 
- 
-
-I also hold non-immaterial amounts (by portfolio %) of [LIST] & various stablecoins 
+I also hold non-immaterial amounts of ETH & various stablecoins.
 
 I disclaim any responsibility to keep these disclosures up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure. 
